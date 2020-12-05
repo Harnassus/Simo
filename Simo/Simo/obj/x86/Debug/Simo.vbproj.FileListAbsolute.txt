@@ -1,0 +1,9 @@
+C:\Users\VinciOla\documents\visual studio 2010\Projects\Simo\Simo\bin\Debug\Simo.exe
+C:\Users\VinciOla\documents\visual studio 2010\Projects\Simo\Simo\bin\Debug\Simo.pdb
+C:\Users\VinciOla\documents\visual studio 2010\Projects\Simo\Simo\bin\Debug\Simo.xml
+C:\Users\VinciOla\documents\visual studio 2010\Projects\Simo\Simo\obj\x86\Debug\Simo.Form1.resources
+C:\Users\VinciOla\documents\visual studio 2010\Projects\Simo\Simo\obj\x86\Debug\Simo.Resources.resources
+C:\Users\VinciOla\documents\visual studio 2010\Projects\Simo\Simo\obj\x86\Debug\Simo.vbproj.GenerateResource.Cache
+C:\Users\VinciOla\documents\visual studio 2010\Projects\Simo\Simo\obj\x86\Debug\Simo.exe
+C:\Users\VinciOla\documents\visual studio 2010\Projects\Simo\Simo\obj\x86\Debug\Simo.xml
+C:\Users\VinciOla\documents\visual studio 2010\Projects\Simo\Simo\obj\x86\Debug\Simo.pdb
